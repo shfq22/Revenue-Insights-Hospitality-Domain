@@ -14,7 +14,7 @@ This end-to-end data analytics project involves:
 
 ## 🖼️ Dashboard Preview
 
-![AtliQ Hospitality Dashboard](./Revenue%20Insights%20-%20Dashboard.jpg)
+![AtliQ Hospitality Dashboard](https://github.com/shfq22/Revenue-Insights-Hospitality-Domain/blob/main/dashboard-preview.png)
 
 ---
 
